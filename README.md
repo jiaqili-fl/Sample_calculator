@@ -42,3 +42,4 @@ Sample Size Output: The app displays the required sample size per group based on
 
 Distribution Plot: A visual representation of the two group distributions is shown.
 
+# Links to Project App&Docs
